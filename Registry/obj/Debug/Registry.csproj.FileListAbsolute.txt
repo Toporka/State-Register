@@ -1,0 +1,10 @@
+D:\Kods\C#\Registry\bin\Debug\Registry.exe.config
+D:\Kods\C#\Registry\bin\Debug\Registry.exe
+D:\Kods\C#\Registry\bin\Debug\Registry.pdb
+D:\Kods\C#\Registry\obj\Debug\Registry.csproj.AssemblyReference.cache
+D:\Kods\C#\Registry\obj\Debug\Registry.Properties.Resources.resources
+D:\Kods\C#\Registry\obj\Debug\Registry.csproj.GenerateResource.cache
+D:\Kods\C#\Registry\obj\Debug\Registry.csproj.CoreCompileInputs.cache
+D:\Kods\C#\Registry\obj\Debug\Registry.exe
+D:\Kods\C#\Registry\obj\Debug\Registry.pdb
+D:\Kods\C#\Registry\obj\Debug\Registry.Registry.resources
